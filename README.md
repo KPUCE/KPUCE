@@ -4,5 +4,5 @@
 
 ## 레포지토리 소개
 
-### CapstoneDesignTutorial
+### 1. CapstoneDesignTutorial
   * 종합설계 가이드라인과 각 진행 단계별로 해야할 일, 작성 문서, 참고문헌등에 대한 안내
