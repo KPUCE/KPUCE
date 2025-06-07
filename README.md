@@ -5,6 +5,7 @@
 ## Github Organization 소개
    * 각 Organization에 Capstone Design을 수행하는 Repository들을 참고할 수 있음
 ### https://github.com/2025TUKCOMCD
+### https://github.com/tukcom2023CD
 
 ### 1. CapstoneDesignTutorial (https://github.com/KPUCE/CapstoneDesignTutorial)
   * 종합설계 가이드라인과 각 진행 단계별로 해야할 일, 작성 문서, 참고문헌등에 대한 안내
