@@ -1,8 +1,5 @@
 # 한국공대 컴퓨터공학부 학생들을 위한 학습 공간입니다.
    * KPUCE는 한국공학대학교 컴퓨터공학부 학생들의 SW 개발 역량을 증진시키기 위해 만들어진 학습 공간입니다.
-     
-
-
 
 ### 1. CapstoneDesignTutorial (https://github.com/KPUCE/CapstoneDesignTutorial)
   * 종합설계 가이드라인과 각 진행 단계별로 해야할 일, 작성 문서, 참고문헌등에 대한 안내
