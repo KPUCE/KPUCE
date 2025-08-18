@@ -16,5 +16,8 @@
 ### 3. Core-Knowledge-for-CE-Students (https://github.com/KPUCE/Core-Knowledge-for-CE-Students)
    * 컴퓨터공학을 전공하는 학생이 필수적으로 알아야 하는 핵심 지식 정리
 
-### 4. C-Develop (https://github.com/KPUCE/C-Develop)
+### 4. Job-Hunting-Guides-for-CE-Students (https://github.com/KPUCE/C-Develop)
+   * 범용시스템의 응용 프로그래머가 아닌 시스템 프로그래머가 되기 위한 개발자를 위한 학습 로드맵
+
+### 5. C-Develop (https://github.com/KPUCE/C-Develop)
    * 범용시스템의 응용 프로그래머가 아닌 시스템 프로그래머가 되기 위한 개발자를 위한 학습 로드맵
