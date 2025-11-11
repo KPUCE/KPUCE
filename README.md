@@ -16,8 +16,9 @@
 ### 3. Core-Knowledge-for-CE-Students (https://github.com/KPUCE/Core-Knowledge-for-CE-Students)
    * 컴퓨터공학을 전공하는 학생이 필수적으로 알아야 하는 핵심 지식 정리
 
-### 4. AI를 활용한 소프트웨어 개발방법 (https://github.com/KPUCE/Core-Knowledge-for-CE-Students)
-   * 컴퓨터공학을 전공하는 학생이 필수적으로 알아야 하는 핵심 지식 정리
+### 4. AI를 활용한 소프트웨어 개발방법 (https://github.com/KPUCE/AI-Powered-Software-Development))
+   * 생성형 AI를 활용한 소프트웨어 개발방법 소개
+   * 캡스톤디자인에 생성형 AI(GPT, Gemini, Claude, Grok)를 활용하여 서비스를 개발하는 방법 소개
      
 ### 5. Job-Hunting-Guides-for-CE-Students (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students))
    * 컴퓨터공학을 전공하는 학생들을 위한 자기소개서 작성법 및 취업 가이드
